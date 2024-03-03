@@ -228,3 +228,5 @@
   "vnetRouteAllEnabled": true,
   "workloadProfileName": null
 }
+
+Test migration from one repo to another
